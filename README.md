@@ -4,7 +4,6 @@ I am a passionate PHP Laravel and WordPress developer. I love building web appli
 
 ## 🌐 Connect with Me
 
-You can find me on various social media platforms. Feel free to reach out!
 
 <p align="center">
   <a href="https://wa.me/+917404847039"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30"></a>
@@ -16,10 +15,10 @@ You can find me on various social media platforms. Feel free to reach out!
 </p>
 
 📞 **Phone Number**: [+91 740-484-7039](tel:+917404847039)
+- **Email**: [ankitkaushikx@gmail.com](mailto:ankitkaushikx@gmail.com)
 
 ## 💻 Technologies & Tools
 
-## 💻 Technologies & Tools
 
 <p align="center">
   <a href="https://laravel.com" style="margin: 0 10px; text-decoration: none; color: black;">
@@ -47,29 +46,3 @@ You can find me on various social media platforms. Feel free to reach out!
     <span style="vertical-align: middle; margin-left: 5px;">PostgreSQL</span>
   </a>
 </p>
-
-
-## 🚀 Projects
-
-Here are some of the projects I have worked on:
-
-### [Project 1](https://github.com/ankitkaushikx/laravel_todo)
-- Simple Todo App for Myself and friend. :)
-- Technologies used: Laravel, MySQL, Livewire.
-
-## 📝 Blog
-
-I also write articles on web development. Check out my latest posts:
-
-## 📫 How to reach me
-
-- **Email**: [ankitkaushikx@gmail.com](mailto:ankitkaushikx@gmail.com)
-- **Phone**: [740-484-7039](tel:+917404847039)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkaushikx&show_icons=true&theme=radical)
-
-## 📜 License
-
-This repository is licensed under [MIT License](LICENSE).
