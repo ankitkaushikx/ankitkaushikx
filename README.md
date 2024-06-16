@@ -4,25 +4,26 @@ I am a passionate PHP Laravel and WordPress developer. I love building web appli
 
 ## 🌐 Connect with Me
 
-
 <p align="center">
   <a href="https://wa.me/+917404847039"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30"></a>
   <a href="https://www.facebook.com/ankitkaushikx"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" height="30"></a>
   <a href="https://x.com/ankitkaushikx"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="30" height="30"></a>
   <a href="https://www.instagram.com/ankitkaushikx"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"></a>
   <a href="https://www.linkedin.com/in/ankit-kaushikx/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"></a>
-  
 </p>
 
-📞 **Phone Number**: [+91 740-484-7039](tel:+917404847039)
-- **Email**: [ankitkaushikx@gmail.com](mailto:ankitkaushikx@gmail.com)
+📞 **Phone Number**: [+91 74048-47039](tel:+917404847039)  
+📧 **Email**: [ankitkaushikx@gmail.com](mailto:ankitkaushikx@gmail.com)
+
+<p align="center">
+  <a href="https://wa.me/+917404847039"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" style="vertical-align: middle;"> <span style="vertical-align: middle; margin-left: 5px;">Send me a message on WhatsApp</span></a>
+</p>
 
 ## 💻 Technologies & Tools
 
-
 <p align="center">
   <a href="https://laravel.com" style="margin: 0 10px; text-decoration: none; color: black;">
-    <img src="https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg" width="40" height="40" style="vertical-align: middle;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Laravel_Logo.png" width="40" height="40" style="vertical-align: middle;">
     <span style="vertical-align: middle; margin-left: 5px;">Laravel</span>
   </a>
   <a href="https://www.php.net" style="margin: 0 10px; text-decoration: none; color: black;">
