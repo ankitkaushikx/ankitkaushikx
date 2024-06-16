@@ -16,9 +16,15 @@ I am a passionate PHP Laravel and WordPress developer. I love building web appli
 
 You can find me on various social media platforms. Feel free to reach out!
 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/yourpage) [![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/yourprofile) [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/yourprofile) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/yourprofile)
+<p align="center">
+  <a href="https://www.facebook.com/yourpage"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" height="30"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" width="30" height="30"></a>
+  <a href="https://www.instagram.com/yourprofile"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"></a>
+  <a href="https://wa.me/917404847039"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30"></a>
+</p>
 
-📞 **Phone Number**: [123-456-7890](tel:+1234567890)
+📞 **Phone Number**: [740-484-7039](tel:+917404847039)
 
 ## 📈 GitHub Stats
 
@@ -46,9 +52,8 @@ I also write articles on web development. Check out my latest posts:
 ## 📫 How to reach me
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Phone**: [123-456-7890](tel:+1234567890)
+- **Phone**: [740-484-7039](tel:+917404847039)
 
 ## 📜 License
 
 This repository is licensed under [MIT License](LICENSE).
-
