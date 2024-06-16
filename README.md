@@ -4,13 +4,7 @@ I am a passionate PHP Laravel and WordPress developer. I love building web appli
 
 ## 💻 Technologies & Tools
 
-- PHP
-- Laravel
-- WordPress
-- HTML/CSS
-- JavaScript
-- MySQL
-- Git/GitHub
+-  Laravel |PHP |WPRD{RESS | JS | MYSQL | POSTGRESQL 
 
 ## 🌐 Connect with Me
 
@@ -24,7 +18,7 @@ You can find me on various social media platforms. Feel free to reach out!
   <a href="https://wa.me/+917404847039"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30"></a>
 </p>
 
-📞 **Phone Number**: [740-484-7039](tel:+917404847039)
+📞 **Phone Number**: [+91 740-484-7039](tel:+917404847039)
 
 ## 🚀 Projects
 
